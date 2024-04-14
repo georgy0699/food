@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FoodRecipesApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourite">Избранное</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_activity_auth">FoodRecipesApp</string>
+    <string name="recipe_details">%1$s • %2$s</string>
+    <string name="product_weight">%1$d гр.</string>
+    <string name="from_author">от %1$s %2$s</string>
+    <string name="welcome">Привет, %1$s!</string>
+    <string name="step_number">Шаг %1$d:</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </string>
+
+    <string-array name="marks_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
